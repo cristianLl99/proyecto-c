@@ -1,0 +1,293 @@
+# depslib dependency file v1.0
+1793212035 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\alquiler.c
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cadena.h"
+	"util.h"
+
+1792104985 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\alquiler.h
+	"socio.h"
+	"titulo.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\socio.h
+	<stdio.h>
+	"fecha.h"
+	"indice.h"
+	"lectura.h"
+	"validaciones.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\fecha.h
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\indice.h
+	<stddef.h>
+
+1791689768 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\lectura.h
+	<stdio.h>
+	"indice.h"
+	"fecha.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\validaciones.h
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\titulo.h
+	<stdio.h>
+	"indice.h"
+	"lectura.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\cadena.h
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\util.h
+	<stdio.h>
+	<stdlib.h>
+	"alquiler.h"
+
+1793233355 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\auditoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auditoria.h"
+	"lectura.h"
+	"cadena.h"
+	"util.h"
+	"indice.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\auditoria.h
+	"fecha.h"
+
+1793212195 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\cadena.c
+	<string.h>
+	<ctype.h>
+	<stddef.h>
+	"cadena.h"
+
+1793212036 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\fecha.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"fecha.h"
+	"util.h"
+	"indice.h"
+
+1791687794 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\indice.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"indice.h"
+
+1793212035 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\lectura.c
+	<string.h>
+	"lectura.h"
+	"util.h"
+	"cadena.h"
+	"socio.h"
+	"titulo.h"
+	"config.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\config.h
+
+1791687794 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"config.h"
+	"util.h"
+	"menu.h"
+	"fecha.h"
+	"indice.h"
+	"lectura.h"
+	"socio.h"
+	"titulo.h"
+	"novedad.h"
+	"alquiler.h"
+	"auditoria.h"
+	"generador.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\menu.h
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\novedad.h
+	"titulo.h"
+
+1791687794 c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\generador.h
+
+1793212036 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\novedad.c
+	<string.h>
+	"novedad.h"
+	"cadena.h"
+
+1793212036 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\socio.c
+	<stdlib.h>
+	<string.h>
+	"socio.h"
+	"cadena.h"
+	"util.h"
+	"auditoria.h"
+	"config.h"
+	"menu.h"
+
+1793238469 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\util.c
+	<string.h>
+	"util.h"
+	"cadena.h"
+	"config.h"
+
+1793212035 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\validaciones.c
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	"validaciones.h"
+
+1792107979 source:c:\users\lucas\onedrive\desktop\unalm topicos\tp-alumnos\titulo.c
+	<stdlib.h>
+	<string.h>
+	"titulo.h"
+	"cadena.h"
+	"util.h"
+
+1793239825 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\alquiler.c
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cadena.h"
+	"util.h"
+
+1792104985 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\alquiler.h
+	"socio.h"
+	"titulo.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\socio.h
+	<stdio.h>
+	"fecha.h"
+	"indice.h"
+	"lectura.h"
+	"validaciones.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\fecha.h
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\indice.h
+	<stddef.h>
+
+1791689768 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\lectura.h
+	<stdio.h>
+	"indice.h"
+	"fecha.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\validaciones.h
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\titulo.h
+	<stdio.h>
+	"indice.h"
+	"lectura.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\cadena.h
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\util.h
+	<stdio.h>
+	<stdlib.h>
+	"alquiler.h"
+
+1793233355 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\auditoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auditoria.h"
+	"lectura.h"
+	"cadena.h"
+	"util.h"
+	"indice.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\auditoria.h
+	"fecha.h"
+
+1793239799 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\cadena.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stddef.h>
+	"cadena.h"
+
+1793212036 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\fecha.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"fecha.h"
+	"util.h"
+	"indice.h"
+
+1793239787 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\indice.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"indice.h"
+
+1793239807 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\lectura.c
+	<string.h>
+	"lectura.h"
+	"util.h"
+	"cadena.h"
+	"socio.h"
+	"titulo.h"
+	"config.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\config.h
+
+1791687794 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"config.h"
+	"util.h"
+	"menu.h"
+	"fecha.h"
+	"indice.h"
+	"lectura.h"
+	"socio.h"
+	"titulo.h"
+	"novedad.h"
+	"alquiler.h"
+	"auditoria.h"
+	"generador.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\menu.h
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\novedad.h
+	"titulo.h"
+
+1791687794 c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\generador.h
+
+1793239866 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\novedad.c
+	<string.h>
+	"novedad.h"
+	"cadena.h"
+
+1793239854 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\socio.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"socio.h"
+	"cadena.h"
+	"util.h"
+	"auditoria.h"
+	"config.h"
+	"menu.h"
+
+1792107979 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\titulo.c
+	<stdlib.h>
+	<string.h>
+	"titulo.h"
+	"cadena.h"
+	"util.h"
+
+1793238469 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\util.c
+	<string.h>
+	"util.h"
+	"cadena.h"
+	"config.h"
+
+1793239832 source:c:\users\ericl\downloads\tp_topicos\tp prueba 2\tp-alumnos\validaciones.c
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	"validaciones.h"
+
